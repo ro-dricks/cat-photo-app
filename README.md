@@ -1,2 +1,2 @@
 # cat-photo-app
-My first HTML and CSS website
+This is my first HTML website that I created with the help of freecodecamp.org
